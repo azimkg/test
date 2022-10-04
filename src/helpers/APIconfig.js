@@ -1,2 +1,2 @@
-export const API = "http://localhost:8000/api";
+export const API = "https://git.heroku.com/powerful-sands-80737.git/api";
 export const GET_ALL_ITEM = "GET_ALL_ITEM";
